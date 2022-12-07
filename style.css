@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(219, 249, 248);
+}
+
+h1{
+    color: rgb(84, 138, 233);
+}
+h3{
+    color: rgb(87, 155, 113);
+}
+
+#foto{
+    height: 350px;
+    max-width: 100%;
+    border-radius: 20px;
+}
+
+button{
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    background-color: rgb(84, 138, 233);
+    color: aliceblue;
+}
+button:hover{
+    background-color: rgb(69, 118, 205);
+}
+
+#textoMotivos{
+    color: rgb(84, 138, 233);
+    font-size: 20px;
+}
